@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">punto de venta</string>
+    <string name="user">usuario</string>
+    <string name="password">contrasña</string>
+    <string name="ingrsar">ingresar</string>
+    <string name="registrar">registrar</string>
+    <string name="obtener_contraseña">¿Se te olvido la contraseña?Click aqui</string>
+    <string name="Codigo">Codigo</string>
+    <string name="Nombre_del_producto">Nombre</string>
+    <string name="PrecioProveor">PrecioP</string>
+    <string name="PrecioUnitario">PrecioU</string>
+    <string name="Alta_de_productos">Alta de productos</string>
+    <string name="ALta">Alta</string>
+    <string name="Modificar">Modificar</string>
+    <string name="Buscar">Buscar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="Modificar_Buscar">Buscar y Modificar</string>
+    <string name="eliminar_productos">Eliminar producto</string>
+
+</resources>
